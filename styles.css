@@ -18,7 +18,7 @@ main{
     display: grid;
     place-items: center;
     width: 400px;
-    height: 400px;
+    height: 100vh;
     min-width: 300px;
     max-width: 400px;
     background: navajowhite;
